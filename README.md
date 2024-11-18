@@ -1,7 +1,7 @@
-<b>Standorterfassungs App mit Azure Maps API</b>
+<h1>Standorterfassungs-App mit Azure Maps API</h1>
 
-<i>Zum speichern und analysieren zurückgelegter Strecken.</i>
+<i>Zum Speichern und Analysieren zurückgelegter Strecken.</i>
 
-<p style="font-size: 11px;">Backend (Klassen) https://github.com/lennard-langenbruch/FHmTracking/tree/master/app/src/main/java/com/example/myapplication22</p>
+<h4><a href="https://github.com/lennard-langenbruch/FHmTracking/tree/master/app/src/main/java/com/example/myapplication22">Backend (Klassen)</a></h4>
 
-<p style="font-size: 11px;">Frontend (XML Layouts) https://github.com/lennard-langenbruch/FHmTracking/tree/master/app/src/main/res/layout</p>
+<h4><a href="https://github.com/lennard-langenbruch/FHmTracking/tree/master/app/src/main/res/layout">Frontend (XML Layouts)</a></h4>
